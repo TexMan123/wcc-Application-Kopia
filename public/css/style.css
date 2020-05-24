@@ -1,0 +1,41 @@
+.navb {
+	background-color: #0062be;
+}
+
+#formLogin {
+	margin-top:200px;
+	border:1px solid #bdbdbd;
+	padding:20px;
+	border-radius:20px 20px;
+	box-shadow: 5px 5px 5px #bdbdbd;
+}
+.contenuTabs {
+	padding:30px;
+}
+.check1 {
+	margin-left:20px;
+}
+.labCheck2 {
+	margin-left:40px;
+}
+#demande {
+	color:white;
+	padding:10px;
+	background-color:green;
+
+}
+.A4 {
+	width:210mm;
+	height: 297mm;
+	background-color: white;
+	border:1px solid black;
+}
+
+.titre {
+	color:blue;
+}
+#kopia {
+	color:blue;
+	font-size: 30px;
+	margin-bottom:-10px;
+}
